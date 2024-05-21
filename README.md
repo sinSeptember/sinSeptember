@@ -8,7 +8,7 @@
   interests Cybersecurity, CTF, Web development
 
 
-### Programming languages I use
+### I speak
 
 <p align="center">
 	<img alt="language stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=1DRvz&theme=dark,CSS&count_private=false&show_icons=true&layout=compact&langs_count=8">
