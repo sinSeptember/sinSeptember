@@ -11,9 +11,9 @@
 	<img alt="language stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=1DRvz&theme=dark,CSS&count_private=false&show_icons=true&layout=compact&langs_count=8">
 </p>
 
-
-### Feel free to contact me
-
+<div id="love" align="center">
+Feel free to contact me
+</div>
 <p align="center">
 	<a href="https://www.linkedin.com/in/saleembibar/" target="_blank">
 		<img alt="linkedin" src="https://img.icons8.com/clouds/100/000000/linkedin.png" style="padding: 5px;" width="10%">
