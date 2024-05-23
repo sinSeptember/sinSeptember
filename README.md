@@ -1,12 +1,11 @@
-#  Hey there , salam <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="5%">
-
-### Shortly about me
-
-  studies computer sience, Cybersecurity, Mathematics
- 
-  interests Cybersecurity, CTF, Web development
-
-
+<h1 align="center">Hello and welcome to my board</h1>
+<div id="love" align="center">
+    <details  close>
+        <p>
+		studies computer sience, Cybersecurity, Mathematics
+		 | interests Cybersecurity, CTF, Web development
+	</p>
+        </div>
 
 <p align="center">
 	<img alt="language stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=1DRvz&theme=dark,CSS&count_private=false&show_icons=true&layout=compact&langs_count=8">
