@@ -8,7 +8,7 @@
         </div>
 
 <p align="center">
-	<img alt="language stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinSeptember&theme=dark,CSS&count_private=false&show_icons=true&layout=compact&langs_count=8">
+	<img alt="language stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinSeptember&theme=dark,python&CSS&count_private=false&show_icons=true&layout=compact&langs_count=8">
 </p>
 
 <div id="love" align="center">
