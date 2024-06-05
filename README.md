@@ -7,7 +7,7 @@ studies computer sience, Cybersecurity, Mathematics
 	
 
 <p align="center">
-	<img alt="language stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinSeptember&theme=dark,bash&python&CSS&count_private=false&show_icons=true&layout=compact&langs_count=8">
+	<img alt="language stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinSeptember&theme=dark,&count_private=false&show_icons=true&layout=compact&langs_count=8">
 </p>
 
 <div id="love" align="center">
